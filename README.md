@@ -1,0 +1,2 @@
+# sharedspaceconf
+Ayudándome 
